@@ -3,7 +3,8 @@
 + 以后的更新会同步到github的issues中
 + 订阅请点`watch`，♥️
 
-### [跟着lodash实现深拷贝](https://github.com/GodLyons/blog/issues/1)
+### javascript
+  + [跟着lodash实现深拷贝](https://github.com/GodLyons/blog/issues/1)
 ### webpack
   + [webpack优化](https://github.com/GodLyons/blog/issues/2)
   + [从零到一开发一个loader](https://github.com/GodLyons/blog/issues/7)
